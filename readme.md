@@ -3,7 +3,8 @@
 [![hackmd-github-sync-badge](https://hackmd.io/9hhvTZIrRrWD4H_ISG1j8A/badge)](https://hackmd.io/9hhvTZIrRrWD4H_ISG1j8A)
 
 ## Book Chapter
-* Python資料科學實戰教本_陳會安 Ch8
+* [Python資料科學實戰教本_陳會安(2022)](https://www.flag.com.tw/books/product/F2745) | Ch8
+* [Python教學手冊_洪維恩(2022)](https://www.flag.com.tw/books/product/F2711) | Ch12
 
 ## Books
 * Python資料科學自學聖經_碁峰
