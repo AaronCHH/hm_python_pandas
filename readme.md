@@ -4,9 +4,9 @@
 
 ## Book Chapter
 * Python資料科學實戰教本_陳會安 Ch8
-* Python資料科學自學聖經_碁峰 Ch2
 
 ## Books
+* Python資料科學自學聖經_碁峰
 
 
 ----
