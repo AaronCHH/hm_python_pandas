@@ -1,4 +1,7 @@
 # Python-Pandas
+
+[![hackmd-github-sync-badge](https://hackmd.io/9hhvTZIrRrWD4H_ISG1j8A/badge)](https://hackmd.io/9hhvTZIrRrWD4H_ISG1j8A)
+
 ## Book Chapter
 * Python資料科學實戰教本_陳會安, Ch8
 
